@@ -14,5 +14,5 @@ Politeknik Negeri Malang Angkatan 2019
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="mailto: nazariotyo@gmail.com"><img src="https://img.shields.io/badge/-aikatan.aikachan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto: nazariotyo@gmail.com"><img src="https://img.shields.io/badge/-nazariotyo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
