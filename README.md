@@ -1,6 +1,6 @@
 ### Hey there! I am using Github 👋 
 
-Politeknik Negeri Malang Angkatan 2019 
+Politeknik Negeri Malang 2019/2020 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
