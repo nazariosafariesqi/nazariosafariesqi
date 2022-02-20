@@ -1,4 +1,4 @@
-### Hey there! I am using WhatsApp 👋 
+### Hey there! I am using Github 👋 
 
 Politeknik Negeri Malang Angkatan 2019 
 
