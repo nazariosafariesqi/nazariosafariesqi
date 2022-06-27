@@ -2,6 +2,8 @@
 
 Politeknik Negeri Malang 2019/2020 
 
+![](https://komarev.com/ghpvc/?username=nazariosafariesqi&color=blueviolet)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
