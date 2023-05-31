@@ -8,8 +8,8 @@ Politeknik Negeri Malang 2019/2020
 
 <p align="left">
 <a href="https://github.com/nazariosafariesqi">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazariosafariesqi&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nazariosafariesqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazariosafariesqi&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nazariosafariesqi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
