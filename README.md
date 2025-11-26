@@ -8,7 +8,7 @@ Politeknik Negeri Malang 2019/2020
 
 <p align="left">
 <a href="https://github.com/nazariosafariesqi">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6249927" style='border:none;' alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nazariosafariesqi.png" alt="Your Image Badge" />
 </a>
 </p>
 
