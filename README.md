@@ -10,9 +10,4 @@
 
 ![Cool Animation](https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif)
 
-<p align="left">
-  <a href="mailto:nazariosafariesqi@wearehackerone.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
-  </a>
-</p>
-
+[![Gmail Badge](https://img.shields.io/badge/-nazariosafariesqi@wearehackerone.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nazariosafariesqi@wearehackerone.com)
