@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nazariosafariesqi&color=blueviolet)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nazariosafariesqi.png)](https://tryhackme.com/p/nazariosafariesqi)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nazariosafariesqi.png?timestamp=20260108)](https://tryhackme.com/p/nazariosafariesqi)
 
 ![Cool Animation](https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif)
 
